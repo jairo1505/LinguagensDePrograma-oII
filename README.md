@@ -23,7 +23,7 @@ Front-end/Livraria/Livraria/Views/EditViewController.swift
 ![image](https://github.com/jairo1505/LinguagensDePrograma-oII/raw/master/Screenshots/3.png)
 
 
-Back-end?
+Back-end:
 
 Foi feito em PHP e MYSQL, usei o XAMPP(v3.2.2)
-Disponível em Backend/
+Disponível em Backend/rest/
