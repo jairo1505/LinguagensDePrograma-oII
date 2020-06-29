@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Livraria
+
+  Created by Jairo Pereira Junior on 17/06/20.
+  Copyright © 2020 Jairo Pereira Junior. All rights reserved.
+*/
+
+"url_servidor" = "http://172.20.20.200/catolica/rest/view/Livro/";
